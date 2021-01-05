@@ -1,0 +1,1 @@
+Small areas of symmetry.
